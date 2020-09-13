@@ -1,0 +1,21 @@
+{
+  "name": "hellonext",
+  "version": "0.0.1",
+  "description": "Mi primera app con next js",
+  "main": "index.js",
+  "repository": "https://github.com/X905/HelloNext.git",
+  "author": "Angel Castillo",
+  "license": "MIT",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "next": "^9.5.3",
+    "ract": "^0.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
